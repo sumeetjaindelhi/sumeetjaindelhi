@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumeet-lab
-- 👀 I’m interested in Java, Flutter.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m interested in Java, ML and AI.
+- 🌱 I’m currently learning Data Structure.
 - 📫 How to reach me - pvtsumeetjain@gmail.com
 -
 
