@@ -10,8 +10,6 @@
 # 📛 Holopins :
 [![An image of @_sumeet_jain_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/_sumeet_jain_)](https://holopin.io/@_sumeet_jain_)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=sumeetjain2002)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
